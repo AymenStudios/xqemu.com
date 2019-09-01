@@ -1,5 +1,5 @@
 # Copyright (c) 2016-2018 Martin Donath <martin.donath@squidfunk.com>
-# Copyright (c) 2018 xqemu Developers
+# Copyright (c) 2019 Concorde Interactive Technologies LLC
 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to
@@ -22,8 +22,8 @@
 # Project information
 site_name: XQEMU
 site_description: 'Experimental Xbox emulator'
-site_author: 'xqemu Developers'
-site_url: http://xqemu.com
+site_author: 'AymenStudios'
+site_url: http://aymenstudios.com
 
 # Repository
 repo_name: xqemu/xqemu
